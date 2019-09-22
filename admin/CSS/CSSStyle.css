@@ -1,0 +1,294 @@
+﻿body
+{
+    background-color:ivory;
+        font-family:Verdana, Tahoma, Arial, sans-serif;
+    height: 275px;
+}
+input[type="text"]
+{
+    font-size:18px;
+    width: 170px;
+    border-radius:4px;
+}
+span
+{
+    font-size:18px;
+    color:black;
+    background:ivory;
+    border-radius:4px;
+}
+select
+{
+    font-size:18px;
+    color:black;
+    background:ivory;
+}
+td
+{
+    font-size:18px;
+    color:black;
+    background:ivory;
+}
+a
+{
+    font-size:18px;
+    color:black;
+    background:ivory;
+}
+input[type="password"]
+{
+    font-size:18px;
+    width: 170px;
+    border-radius:4px;
+}
+input[type="submit"]
+{
+    font-size:18px;
+    border-radius:2px;
+    border-color:black;
+    background-color:lavender;
+    width:auto;
+    border-width:1px;
+}
+.defaultpagedisplay
+{
+    left:0px;
+    top:0px;
+    position:absolute;
+    width:auto;
+    height:auto;
+    margin: 0 0 0 0;
+    background-color:aquamarine;
+}
+.pageheader
+{
+    font-size:24px;
+    left:10px;
+    top:10px;
+}
+.loginlabel
+{
+    left:50px;
+    top:151px;
+    position:absolute;
+}
+.loginbox
+{
+    left:150px;
+    top:150px;
+    position:absolute;
+}
+.loginvalidator
+{
+    left:360px;
+    top:151px;
+    position:absolute;
+}
+.passwordlabel
+{
+    left:50px;
+    top:196px;
+    position:absolute;
+}
+.passwordbox
+{
+    left:150px;
+    top:195px;
+    position:absolute;
+}
+.passwordvalidator
+{
+    left:360px;
+    top:196px;
+    position:absolute;
+}
+.loginbutton
+{
+    left:150px;
+    top:240px;
+    position:absolute;
+}
+.logincancbutton
+{
+    left:260px;
+    top:240px;
+    position:absolute;
+}
+.msglabel
+{
+    left:150px;
+    top:280px;
+    position:absolute;
+}
+.dropdownlabel
+{
+    left:60px;
+    top:82px;
+    position:absolute;
+}
+.pagenamedropdown
+{
+    width:160px;
+    left:260px;
+    top:80px;
+    position:absolute;
+}
+.gridview
+{
+    left:60px;
+    top:130px;
+    position:absolute;
+}
+.pagebutton
+{
+    left:60px;
+    top:620px;
+    position:absolute;
+}
+.pagecancbutton
+{
+    left:250px;
+    top:620px;
+    position:absolute;
+}
+.pagecssbutton
+{
+    left:60px;
+    top:660px;
+    position:absolute;
+}
+.gridviewbutton
+{
+    font-family:Verdana, Tahoma, Arial, sans-serif;
+    font-size:18px;
+    border-radius:4px;
+    border-color:darkred;
+    background-color:lavender;
+    border-width:1px;
+}
+.tinymce
+{
+    overflow:hidden;
+}
+.tinypagetextvalidator
+{
+    left:10px;
+    top:670px;
+    position:absolute;
+}
+.tinypagenamelabel
+{
+    left:10px;
+    top:701px;
+    position:absolute;
+}
+.tinypagenamebox
+{
+    left:140px;
+    top:700px;
+    position:absolute;
+}
+.tinypagenamevalidator
+{
+    left:390px;
+    top:701px;
+    position:absolute;
+}
+.tinypageheaderlabel
+{
+    left:10px;
+    top:741px;
+    position:absolute;
+}
+.tinypageheaderbox
+{
+    left:140px;
+    top:740px;
+    position:absolute;
+}
+.tinypageheadervalidator
+{
+    left:565px;
+    top:741px;
+    position:absolute;
+}
+.tinypageorderlabel
+{
+    left:10px;
+    top:781px;
+    position:absolute;
+}
+.tinypageorderbox
+{
+    left:140px;
+    top:780px;
+    position:absolute;
+}
+.tinypageordervalidator
+{
+    left:195px;
+    top:781px;
+    position:absolute;
+}
+.tinypagepublishedlabel
+{
+    left:10px;
+    top:821px;
+    position:absolute;
+}
+.tinypagepublishedbox
+{
+    left:140px;
+    top:820px;
+    position:absolute;
+    border-radius:4px;
+}
+.tinypagestylelabel
+{
+    left:10px;
+    top:861px;
+    position:absolute;
+}
+.tinypagestylebox
+{
+    left:140px;
+    top:860px;
+    position:absolute;
+    border-radius:4px;
+}
+.tinysavebutton
+{
+    left:140px;
+    top:900px;
+    position:absolute;
+}
+.tinycancbutton
+{
+    left:300px;
+    top:900px;
+    position:absolute;
+}
+.empty
+{
+    left:10px;
+    top:1050px;
+    position:absolute;
+    color:ivory;
+    background-color:ivory;
+}
+.hide
+{
+    display:none;
+}
+.csspagebutton
+{
+    left:5px;
+    top:600px;
+    position:absolute;
+}
+.csscancbutton
+{
+    left:170px;
+    top:600px;
+    position:absolute;
+}

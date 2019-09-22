@@ -1,0 +1,99 @@
+﻿#form1
+{
+    background-color:rgb(140, 167, 193);
+    font-family:Verdana, Geneva, sans-serif;  
+    width:100%;
+}
+#header
+{
+    color: #fff;
+    background-color: rgba(13, 17, 54,0.9);
+    width:100%;
+}
+#menu
+{
+    color: #333;
+    background-color: rgba(131, 178, 234, 0.8);  
+    font-family:Verdana, Geneva, sans-serif;
+    width:100%;
+}
+#content
+{
+    color: #333;
+    background-color: rgb(140, 167, 193);
+    /*float:left;*/
+    font-family:Verdana, Geneva, sans-serif;
+    width:100%;
+    height:825px;
+    min-height:825px;
+    /*overflow:hidden;*/
+}
+#footer {
+    color: #333;
+    background-color: rgb(140, 167, 193);
+    font-family:Verdana, Geneva, sans-serif;
+    clear: both;
+    text-align: center;
+    font-size: x-small;
+    font-style: italic;
+    width:100%;
+}
+a
+{
+    color:black;
+}
+h1
+{
+    color: #fff;
+    font-family:Verdana, Geneva, sans-serif;  
+}
+#menu ul 
+{
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    overflow: hidden;
+}
+#menu li 
+{
+  display:inline-block;
+}
+#menu a 
+{
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  font-size:22px;
+  font-weight:bold;
+}
+#menu a:hover 
+{
+  background-color:rgb(140, 167, 193);
+}
+@media only screen and (min-device-width:320px) and (max-device-width:480px)
+{
+    #form1 {
+        width:auto;
+        margin: 0 auto;
+    }
+    #content {
+        width:95%;
+        height:1200px;
+        min-height:1200px;
+    }
+    #menu a 
+    {
+        font-size:30px;
+    }
+    #content a 
+    {
+        font-size:30px;
+    }
+    #content p
+    {
+        font-size:30px;
+    }
+    #footer {
+        font-size:small;
+    }
+}

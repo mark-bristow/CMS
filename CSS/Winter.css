@@ -1,0 +1,82 @@
+﻿#form1
+{
+    background-image: -ms-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -moz-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -o-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #0A64A4), color-stop(1, #65A5D1));
+    background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: radial-gradient(ellipse farthest-corner at center, #0A64A4 0%, #65A5D1 100%);
+    width:100%;
+    /*width:1400px;*/
+}
+#header
+{ 
+    background-image: -ms-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -moz-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -o-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #0A64A4), color-stop(1, #65A5D1));
+    background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: radial-gradient(ellipse farthest-corner at center, #0A64A4 0%, #65A5D1 100%);
+    font-family:Verdana, Geneva, sans-serif;   
+    width:100%;
+    /*background-color:#3E94D1;*/
+}
+#menu
+{   
+    background-image: -ms-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -moz-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -o-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #0A64A4), color-stop(1, #65A5D1));
+    background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: radial-gradient(ellipse farthest-corner at center, #0A64A4 0%, #65A5D1 100%);
+    /*background-color:#65A5D1;*/
+    color:darkblue;
+    font-family:Verdana, Geneva, sans-serif;
+    height:825px;
+    width:15%;
+    /*width:146px;*/
+    float:left;
+}
+#content
+{
+    background-image: -ms-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -moz-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -o-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #0A64A4), color-stop(1, #65A5D1));
+    background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #0A64A4 0%, #65A5D1 100%);
+    background-image: radial-gradient(ellipse farthest-corner at center, #0A64A4 0%, #65A5D1 100%);
+    /*background-color:#0A64A4;*/
+    float:left;
+    font-family:Verdana, Geneva, sans-serif;
+    /*width:1250px;*/
+    width:85%;
+    height:825px;
+    overflow:hidden;
+}
+#footer
+{
+    background-color:#0A64A4;
+    font-family: Verdana, Geneva, sans-serif;
+    clear:both;
+    text-align:center;
+    font-size:x-small;
+    font-style:italic;
+    width:100%;
+}
+a
+{
+    color:darkblue;
+}
+h1
+{
+    color:darkblue;
+    font-family:Verdana, Geneva, sans-serif;  
+}
+p
+{
+    color:darkblue;
+}
+ul
+{
+    list-style-type:none;
+}
